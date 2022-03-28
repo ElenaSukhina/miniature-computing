@@ -1,1 +1,1 @@
-# miniature-computing
+# miniature-computing - учебный проект
